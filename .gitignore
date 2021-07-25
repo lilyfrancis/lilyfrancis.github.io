@@ -1,0 +1,6 @@
+# Object file
+*.o
+
+# ignore .md files and node modules
+*.md
+node_modules/
