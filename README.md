@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# My Portfolio
 
-You can use the [editor on GitHub](https://github.com/lilyfrancis/lilyfrancis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> This is a portfolio project by microverse to test the use of Flexbox for Positioning and also grids, images and Background, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![screenshot](images/screenshot.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# LIVE DEMO
 
-```markdown
-Syntax highlighted code block
+https://lilyfrancis.github.io/MyPortfolio
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Built With
 
-1. Numbered
-2. List
+- Html
+- CSS
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Getting Started
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+To get a local copy up and running follow these simple example steps
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lilyfrancis/lilyfrancis.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Prerequisites
+Github Account 
 
-### Support or Contact
+### Setup
+Set up and configure git on your system.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Install
+Clone this repository
+
+
+
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@ifnotlily](https://github.com/ifnotlily)
+- Twitter: [@ifnotlily](https://twitter.com/ifnotlily)
+- LinkedIn: [lilian-francis](https://linkedin.com/in/lilian-francis)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
