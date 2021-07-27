@@ -1022,12 +1022,6 @@ ul.topnav li.dropdownIcon {
   letter-spacing: 0.03em;
 }
 
-#fs-frm .submit-button :hover {
-  background: #6070ff;
-  border-radius: 8px;
-  color: #fff;
-}
-
 #fs-frm .submit-button :active {
   background: #2230d2;
   border-radius: 8px;
