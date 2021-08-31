@@ -230,7 +230,6 @@ button[type="submit"] {
   background-position: center;
 }
 
-
 .headline-main-container {
   width: 90%;
   margin: 0 auto;
@@ -271,16 +270,6 @@ button[type="submit"] {
   line-height: 24px;
   color: #6070ff;
   padding: 0.5rem 0;
-}
-
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  gap: 16px;
-  padding-top: 12px;
-  padding-bottom: 12px;
 }
 
 #naturesec {
