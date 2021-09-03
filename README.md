@@ -1,17 +1,18 @@
 # My Portfolio
 
-> This is a responsive portfolio project by microverse to test the use of Flexbox for Positioning and also grids, images and Background, 
+> This is a mobile version portfolio project by microverse to test the use of Flexbox for Positioning and also grids, images and Background, 
 
 ![screenshot](images/screenshot.png)
 
-## Live Demo
-- [Live Demo Link](http://www.lilianfrancis.com/MobilePortfolio/)
 
 ## Built With
 
 - Html
 - CSS
+- JS
 
+## Live Demo
+- [Live Demo Link](http://www.lilianfrancis.com)
 
 ## Getting Started
 
@@ -22,10 +23,11 @@ To get a local copy up and running follow these simple example steps
 Github Account 
 
 ### Setup
-Set up and configure git on your system
+Set up and configure git on your system.
 
 ### Install
 Clone this repository
+
 
 
 
