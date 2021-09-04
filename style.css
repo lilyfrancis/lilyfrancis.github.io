@@ -243,7 +243,6 @@ a {
 
 .knowledges .knw .lang-list li {
   max-width: 500px;
-  padding: 0.5rem 0.8rem;
   background-color: #b3bac5;
   margin: 0.25rem auto;
   width: 90%;
@@ -611,7 +610,6 @@ button[type="submit"]:hover {
 .card-popup-window .main-container .languages li:nth-child(1),
 .card-popup-window .main-container .languages li:nth-child(2),
 .card-popup-window .main-container .languages li:nth-child(3) {
-  padding: 0.12rem 0.75rem;
   background-color: #ebebff;
   border-radius: 8px;
   margin: 0.4rem;

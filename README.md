@@ -1,6 +1,6 @@
 # My Portfolio
 
-> This is a mobile version portfolio project by microverse to test the use of Javascript to store form data on browser
+> This is a mobile version portfolio project by microverse to test the use of Javascript to for storing 
 
 ![screenshot](images/screenshot.png)
 
