@@ -1,64 +1,62 @@
 const speakers = [
   {
     images: {
-      imagesUrl: './images/speaker4.png',
-      imagesAlt: 'Chandler Moore',
+      imagesUrl: './images/spk1.png',
+      imagesAlt: 'Ajay',
     },
-    name: 'Professor of Entrepreneurial Legal Studies at Havard',
-    shortDescription: '',
-    profile: 'Chandler studies commons-based perr production, and published his seminal book The Wealth of Network in 2019.',
+    name: 'Ajay Pangarkar, CTDP, FCPA, FCMA',
+    shortDescription: 'Award-Winning Author & Workplace Performance Strategist | Globally Recognized Strategist',
+    profile: 'performance strategist, President of CentralKnowledge. Start a “Workplace Revolution” (blog.centralknowledge.com) Twitter: @BizLearningDude.',
   },
 
   {
     images: {
-      imagesUrl: './images/prof_rita.JPG',
-      imagesAlt: 'Prof. Dickson Rita',
+      imagesUrl: './images/spk2.png',
+      imagesAlt: 'zsolt',
     },
-    name: 'Prof. Dickson Rita',
-    shortDescription: 'Provost at Kwame Nkrumah University of Science and technology',
-    profile: `Prof. Dickson obtained her M.Pharm (Pharmacognosy) in 1999 and was appointed a lecturer in 2000.
-    In 2003, she was awarded a Commonwealth scholarship to pursue her PhD at King's College, University of London, UK.`,
+    name: 'Zsolt Olah',
+    shortDescription: 'Engage the WORL&D! Speaker & Doer: Learn | Reflect | Innovate | Perform | Critical Game Design Think',
+    profile: `Zsolt Olah is a Manager, Digital Learning & Experience at Amazon Web Services (AWS). Previously, he worked as a creative learning consultant at Kineo. Zsolt has over 15 years of L&D experience. He is a frequent speaker at learning conferences on the intersection of digital learning, engagement, and game thinking for L&D. Author of the book, Engage the WORL&D!.`,
   },
 
   {
     images: {
-      imagesUrl: './images/claudySiar.JPG',
-      imagesAlt: 'Claudy Siar',
+      imagesUrl: './images/spk3.png',
+      imagesAlt: 'Patti Shank',
     },
-    name: 'Claudy Siar',
-    shortDescription: 'Journalist, Presenter',
-    profile: ` In 2014-2015,in the historical television series Brothers the Arms by Rachid Bouchareb and Pascal Blanchard,he presents the biography of Florence Conrad.
-    In 2016-2017, he hosted The Voice Afrique francophone on Voxafrica.`,
+    name: 'Patti Shank',
+    shortDescription: 'Founder, Learning Peaks, LLC',
+    profile: ` Patti Shank PhD is listed as one of the Top 10 Most Influential People in eLearning internationally. She has written numerous books and her articles are found all over the Internet . You can find out more about her at www.pattishank.com.`,
   },
 
   {
     images: {
-      imagesUrl: './images/Kossi_festival.JPG',
-      imagesAlt: 'Kossi stack',
+      imagesUrl: './images/spk4.png',
+      imagesAlt: 'Michael Hansen',
     },
-    name: 'Augustin Kossi',
-    shortDescription: 'Kossi is a DEV Programmer Eng and big architech in Kumasi',
-    profile: 'Kossi has a PhD in ICTM and currently a Senior Lecturer in the Department of Architecture, Kwame Nkrumah University Of Science and Technology. is an active practicing consulting architect and the C.E.O. of the PROJEKT DAVID FOUNDATION.',
+    name: 'Michael Hansen',
+    shortDescription: 'Bringing Learning to Life',
+    profile: 'With an instinctive consulting ability, along with his passion to help others succeed, Michael has been successfully helping small to Fortune 500 companies across the globe for over 15 years. When Michael is not serving EdgePoint existing and soon to be clients, he enjoys the outdoors, learning and new experiences.',
   },
 
   {
     images: {
-      imagesUrl: './images/speaker5.png',
-      imagesAlt: 'Jocelyne Béroard',
+      imagesUrl: './images/spk5.png',
+      imagesAlt: 'Asha Pandey',
     },
-    name: 'Jocelyne Béroard',
-    shortDescription: 'Jocelyne is a Martinican singer and songwriter',
-    profile: 'In 2014, she sang On noublie pas (written by Serge Bilé) with several artists and personalities including Alpha Blondy, Harry Roselmack and Admiral T. This song is a tribute to the 152 victims from Martinique of the crash of 16 August 2005,',
+    name: 'Asha Pandey',
+    shortDescription: 'Chief Learning Strategist',
+    profile: 'Asha Pandey is the Chief Learning Strategist at EI Design. She brings her rich 18 years’ experience into play to help EI Design customers transform their learning and keep pace with the changing dynamics in the Learning industry',
   },
 
   {
     images: {
-      imagesUrl: './images/speaker1.png',
-      imagesAlt: 'Scott Michael Disick',
+      imagesUrl: './images/spk7.png',
+      imagesAlt: 'Steve Penfold',
     },
-    name: 'Scott Michael Disick',
-    shortDescription: 'Gospel Artiste',
-    profile: 'Scott Michael Disick is an American media personality and socialite. He is most famous for starring as a main cast member on Keeping Up with the Kardashians and its spinoffs.[5][6] Disicks popularity on Keeping Up with the Kardashians led to the development of a house flipping show, Flip It Like Disick, that aired on E! Network',
+    name: 'Christopher Pappas',
+    shortDescription: 'Empowering organisations to author more effective elearning, faster',
+    profile: 'Steve Penfold is Customer Success Director at Elucidat.',
   },
 ];
 

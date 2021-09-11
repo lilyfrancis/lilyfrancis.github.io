@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 👤 **Lilian Francis**
 - GitHub: [@githubhandle](https://github.com/lilyfrancis)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lilian-francis/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lilianfrancis/)
 
 
 ## 🤝⭐️ Contributing
