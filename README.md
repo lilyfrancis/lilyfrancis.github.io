@@ -2,21 +2,13 @@
 
 # HTML-CSS-JavaScript-capstone-project
 
->This Project is called Capstone which simply means Final Project in which I summarize my knowledge in HTML, CSS and 
-a little bit of javaScript.
+>TThis is my Capstone Project in Microverse to show my knowledge of CSS, HTML and Javascript
 
 ## Project Name
-## International Festival Theatre in Kumasi GHANA
- Kumasi is the second capital in Ghana country. Festivals theatre have been going on un kumasi for years now. This Project which
- will come off in December will be held at Kwame Nkrumah University of Science and technology. In this Project, I announce or 
- broadcast the festival with details. The home page tells us about the venue, date and time of the event. also, this page includes names
- of Speakers we expect during the festival. the second page which I named "About Page" gives details of the program and testimonies. 
-
-![Desktop-Images](./images/pageFestival.png)
-![Desktop Phone size image](./images/CapstoneProject1.png)
-
-# The Project presentation video
-[Presentation video link](https://www.loom.com/share/f50d19dcc2154e069459e9b9c36941e2)
+## 16th International E-learning Conference
+This Website is about an E-learning Conference that aims to address the main issues of concern within e-Learning. This conference covers both technical as well as the non-technical aspects of e-Learning.
+The home page tells us about the venue, date and time of the event, It also includes names
+ of Speakers. The About Page gives details of the program. 
 
 ## Built With
 
@@ -25,13 +17,12 @@ a little bit of javaScript.
 - Js
 
 ## Live Demo
-- [Live Demo Link](https://olipliche.github.io/HTML-CSS-JavaScript-capstone-project-/)
+- [Live Demo Link]( http://www.lilianfrancis.com/)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-- You can clone this repo by typing git clone `https://github.com/OLIPLICHE/HTML-CSS-JavaScript-capstone-project-.git` on your terminal
-- Type cd `HTML-CSS-JavaScript-capstone-project-` to access the project on the terminal
+- You can clone this repo by typing git clone `git@github.com:lilyfrancis/lilyfrancis.github.io.git` on your terminal
 
 
 ### Prerequisites
@@ -42,16 +33,16 @@ To get a local copy up and running follow these simple example steps.
 - Js
 
 ## Authors
-👤 **Olipliche Mavoungou Paka**
-- GitHub: [@githubhandle](https://github.com/OLIPLICHE)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olipliche-paka-mavoungou/)
+👤 **Lilian Francis**
+- GitHub: [@githubhandle](https://github.com/lilyfrancis)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lilian-francis/)
 
 
 ## 🤝⭐️ Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/OLIPLICHE/HTML-CSS-JavaScript-capstone-project-/issues).
+Feel free to check the [issues page](https://github.com/lilyfrancis/lilyfrancis.github.io/issues).
 
 ## Show your support
 
