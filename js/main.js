@@ -1,10 +1,5 @@
 const goUp = document.querySelector('.go-up');
 window.onscroll = () => {
-  if (document.body.scrollTop >= 100 || document.documentElement.scrollTop >= 100) {
-    goUp.style.display = 'block';
-  } else {
-    goUp.style.display = 'none';
-  }
 };
 
 const weSingMenu = document.getElementById('festival_menu');
